@@ -1,0 +1,226 @@
+.arpit{
+    font-family:  apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size :14px;
+    line-height: 1.5;
+    display: auto;
+   
+}
+.container1{
+    background-color: #4fb3d4;
+    background-image:url(photo27.png) ;
+    background-image: no repeat;
+    text-align: center;
+    color:#fff;
+    padding: 5px 10px;
+    font-weight: 700;
+    background-size: 300px;
+}
+.container2{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.option{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 40px;
+    font-size: 24px;
+    font-family: "Raboto",sans-serif;
+    cursor: pointer;
+}
+.sankar{
+    border: 1px solid rgb(34, 148, 237);
+    border-radius: 6px;
+    font-family: 'Averta',sans-serif;
+    /* line-height: 18px; */
+    font-weight: 600px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.2 ease-out;
+}
+.suman{
+    cursor: pointer;
+    border-radius: 6px;
+    font-family: 'Averta PE',sans-serif;
+    text-align: center;
+    font-weight: 600px;
+    transition: 0.2 ease-out;
+    background-color: #1cbcf1;
+    color: #fff;
+}
+.sankar:hover{
+    color:rgb(134, 214, 241);
+}
+.suman:hover{
+    background-color: rgba(136, 168, 227, 0.659);
+}
+.option1:hover{
+    color: aqua;
+
+}
+.option2:hover{
+color:aqua ;
+}
+.option3:hover{
+color:aqua ;
+}
+.option4:hover{
+color: aqua;
+}
+.container3{
+    display: flex;
+}
+.anshu2{
+    padding: 60px;
+}
+.option5{
+    padding-top: 12px;
+}
+.subh{
+    text-align: auto;
+    padding-left: 140px;
+    padding-top: 120px;
+    font-size: 24px;
+}
+.subh2{
+    text-align: center;
+    font-size: 24px;
+    font-family:'Averta PE',sans-serif; 
+}
+.subh3{
+    font-size: 24px;
+    background-color: #1cbcf1;
+    border-radius: 12px solid white;
+    padding: 16px 32px;
+    font-family: 'Averta PE',sans-serif;
+    border: 1px soilid white;
+    text-align: center;
+    cursor: pointer;
+    font-style: bold;
+    display:inline-block;
+    text-align: center;
+}
+.subh3:hover{
+    color: aliceblue;
+    background-color: aqua;
+}
+.container4{
+    text-align: center;
+    font-size: 24px;
+    padding-top: 12px;
+}
+.container5{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 12px;
+}
+.container6{
+    padding-top: 90px;
+    font-size: 28px;
+     font-family: 'Averta PE',sans-serif; 
+     font-weight: 800;
+     font-style: bold;
+     text-align: center;
+}
+.container7{
+text-align: center;
+display: block;
+font-size: 24px;
+
+}
+.container7:hover{
+    color: #1cbcf1;
+    border: #00b2ee;
+    text-align: center;
+}
+.container8{
+display: flex;
+justify-content: space-between;
+padding-top: 30px;
+font-size: 20px;
+cursor: pointer;
+}
+.anshu3{
+    text-align: center;
+    padding-left: 22px;
+}
+.anshu4{
+    text-align: center;
+}
+.anshu5{
+    text-align: center;
+}
+.container9{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    font-size: 20px;
+    cursor: pointer;
+    }
+    .anshu6{
+        text-align: center;
+        padding-left: 22px;
+    }
+    .anshu7{
+        text-align: center;
+    }
+    .anshu8{
+        text-align: center;
+    }
+    .kaff1:hover{
+     color: #00b2ee;
+    }
+    .kaff2:hover{
+     color: #00b2ee;
+    }
+    .kaff3:hover{
+        color: #00b2ee;
+    }
+    .kaff4:hover{
+        color: #00b2ee;
+    }
+    .kaff5:hover
+    {
+        color: #00b2ee;
+    }
+    .kaff6:hover{
+        color: #00b2ee;
+    }
+    .container10{
+        display: flex;
+    }
+    .gupta8{
+        display: flex;
+    }
+    .container11{
+        display: flex;
+    }
+    .gupta17{
+        display: flex;
+    }
+    .container12{
+        display: flex;
+    }
+    .suman13{
+        display: flex;
+    }
+    .container16{
+        display:flex;
+    }
+    .anu4{
+        display: flex;
+    }
+    .container17{
+        display: flex;
+        justify-content: space-between;
+    }
+    .container18{
+        display: flex;
+        justify-content: space-between;
+    }
+    .kapil1{
+display: flex;
+justify-content: space-between;
+    }
